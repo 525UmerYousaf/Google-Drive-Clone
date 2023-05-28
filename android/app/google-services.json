@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475262860389",
+    "project_id": "driveclone-353da",
+    "storage_bucket": "driveclone-353da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475262860389:android:3c563ec5d21a8ac0ee1a8c",
+        "android_client_info": {
+          "package_name": "com.example.google_drive_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475262860389-0nnnlqniom5kcbcto3n094lh79lgajfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_drive_clone",
+            "certificate_hash": "77bb645c6dc654df5821975197411e4bb1759f56"
+          }
+        },
+        {
+          "client_id": "475262860389-a38pog6r2blkb32fsld89dccqv4fraqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24HTuLsbCZdQotWwjRNAzivBYM7imnJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475262860389-a38pog6r2blkb32fsld89dccqv4fraqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
